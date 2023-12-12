@@ -1,0 +1,5 @@
+this the notes for the git courese that i am doing 
+till now 
+git init -> used to create a local repository with .git file init (local system)
+
+git status -> used to get the status of the repository like nof commits on master barnch and untracked files etc
